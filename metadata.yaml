@@ -1,0 +1,93 @@
+_repo: En-avion-vers-le-pole-nord_70061
+_version: 0.0.1
+alternative_title: 'At head of title: Expédition Amundsen-Ellsworth'
+contributor:
+  contributors:
+  - agent_name: Bjerknes, J. (Jacob Aall Bonnevie)
+    aliases:
+    - Bjerknes, Jacob
+    - Bjerknes, Jakob
+    birthdate: 1897
+    deathdate: 1975
+    gutenberg_agent_id: '55585'
+    url: http://www.gutenberg.org/2009/agents/55585
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jacob_Bjerknes
+    - https://fr.wikipedia.org/wiki/Jacob_Bjerknes
+  - agent_name: Dietrichson, Leif
+    alias: Dietrichson, Leif Ragnar
+    birthdate: 1890
+    deathdate: 1928
+    gutenberg_agent_id: '55583'
+    url: http://www.gutenberg.org/2009/agents/55583
+    wikipedia: https://en.wikipedia.org/wiki/Leif_Dietrichson
+  - agent_name: Larsen, Hjalmar Riiser-
+    aliases:
+    - Riiser-Larsen, Hjalmar
+    - Riiser-Larsen, Hj. (Hjalmar)
+    birthdate: 1890
+    deathdate: 1965
+    gutenberg_agent_id: '55574'
+    url: http://www.gutenberg.org/2009/agents/55574
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Hjalmar_Riiser-Larsen
+    - https://fr.wikipedia.org/wiki/Hjalmar_Riiser-Larsen
+  - agent_name: Ramm, Fredrik
+    birthdate: 1892
+    deathdate: 1943
+    gutenberg_agent_id: '55584'
+    url: http://www.gutenberg.org/2009/agents/55584
+    wikipedia: https://en.wikipedia.org/wiki/Fredrik_Ramm
+  other_contributor:
+    agent_name: Ellsworth, Lincoln
+    birthdate: 1880
+    deathdate: 1951
+    gutenberg_agent_id: '55589'
+    url: http://www.gutenberg.org/2009/agents/55589
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lincoln_Ellsworth
+    - https://fr.wikipedia.org/wiki/Lincoln_Ellsworth
+  translator:
+    agent_name: Rabot, Charles
+    birthdate: 1856
+    deathdate: 1944
+    gutenberg_agent_id: '51300'
+    url: http://www.gutenberg.org/2009/agents/51300
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Charles_Rabot
+    - https://fr.wikipedia.org/wiki/Charles_Rabot
+creator:
+  author:
+    agent_name: Amundsen, Roald
+    aliases:
+    - Amundsen, Rual
+    - Amundsen, Roald Engelbregt Gravning
+    birthdate: 1872
+    deathdate: 1928
+    gutenberg_agent_id: '1189'
+    url: http://www.gutenberg.org/2009/agents/1189
+    wikipedia: https://en.wikipedia.org/wiki/Roald_Amundsen
+description: ''
+gutenberg_issued: '2023-02-18'
+identifiers:
+  gutenberg: '70061'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k945175s
+pgterms:marc905: 20220118051216amundsen
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bAlbin Michel, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North Pole'
+- !lcsh 'Arctic regions -- Aerial exploration'
+- !lcsh 'Aeronautics -- Arctic regions -- Flights'
+- !lcc 'G'
+- GITenberg
+title: En avion vers le pôle nord
+url: http://www.gutenberg.org/ebooks/70061
