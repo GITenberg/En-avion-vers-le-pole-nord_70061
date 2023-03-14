@@ -56,6 +56,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Charles_Rabot
     - https://fr.wikipedia.org/wiki/Charles_Rabot
+covers:
+- cover_type: archival
+  image_path: 70061-h/images/cover.jpg
 creator:
   author:
     agent_name: Amundsen, Roald
@@ -68,6 +71,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1189
     wikipedia: https://en.wikipedia.org/wiki/Roald_Amundsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70061#En-avion-vers-le-pole-nord
 gutenberg_issued: '2023-02-18'
 identifiers:
   gutenberg: '70061'
